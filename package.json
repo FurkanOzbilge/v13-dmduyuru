@@ -1,0 +1,21 @@
+{
+  "name": "brave-studios",
+  "version": "3.0.0",
+  "description": "DM-Duyuru Altyapı v13",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Frnx",
+  "license": "MIT",
+  "devDependencies": {
+    "discord-api-types": "^0.23.1"
+  },
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.0.0",
+    "moment": "^2.29.4",
+    "nrc.db": "^2.1.0",
+    "orio.db": "^3.1.2"
+  }
+}
